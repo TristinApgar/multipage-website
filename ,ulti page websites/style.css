@@ -1,0 +1,65 @@
+body {
+    background-image: url(src/spacebackground.jpg);
+}
+
+h1 {
+    color: white;
+    font-family: Arial;
+}
+
+p {
+    color: white;
+    font-family: Arial;
+}
+
+.mainTitle {
+    color: black;
+    font-size: 70px;
+    text-align: center;
+    background-color: white;
+}
+
+.basicText {
+    color: white;
+}
+
+.introducer {
+    font-size: 40px;
+}
+
+header {
+    border-style: solid;
+    background-color: rgba(245,245,245,0.5);
+}
+
+hr {
+    color:white
+}
+
+li {
+    color: white;
+    font-family: Arial;
+}
+
+.planetImg {
+    width: 300px;
+    height: 300px;
+}
+
+h3 {
+    color: white;
+    font-family: Arial;
+}
+
+.saturn {
+    height: 150px;
+}
+
+iframe {
+    width: 600px;
+    height: 600px;
+}
+
+.linked {
+    font-size: 25px
+}
